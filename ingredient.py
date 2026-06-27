@@ -25,3 +25,7 @@ class Ingredient:
             for ingredient in MENU[user_want]["ingredients"]:
                 substracted_ing = resources[ingredient] + MENU[user_want]["ingredients"][ingredient]
                 resources[ingredient] = substracted_ing
+
+
+
+    "def add_ash()"
